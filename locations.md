@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: 1
-date: 2019-09-02T02:39:28.066Z
+date: 2019-09-03T21:22:57.672Z
 tags: 
 ---
 
@@ -16,3 +16,4 @@ The land of Néeark is comprised primarily of two continents, separated by sea.
 - [Cloudcairne](/locations/cloudcairne)
 - [Kyria Pol](/locations/kyria-pol)
 - [Ielelumé](/locations/ielelume)
+- [Steelhold](/locations/steelhold)
