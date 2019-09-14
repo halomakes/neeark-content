@@ -2,9 +2,12 @@
 title: Steelhold
 description: 
 published: 1
-date: 2019-09-05T20:22:00.764Z
+date: 2019-09-14T03:10:06.908Z
 tags: 
 ---
+
+[![Map of Steelhold](https://i.redd.it/9sv67z6c5hm31.jpg =640x)](https://i.redd.it/9sv67z6c5hm31.jpg)
+[<i class="mdi mdi-magnify-plus-outline"></i>View Full-Size](https://i.redd.it/9sv67z6c5hm31.jpg)
 
 Steelhold is a small mining town located at the northern-most end of [The Spine](/locations/the-spine). Established only 100 years after [Kyria Pol](/locations/kyria-pol), it has served as the primary source of both iron and [Popo](/creatures/herbavores/popo) meat, fur, and milk for its "big sister" city. Though fairly far from civilization, it has managed to remain fairly prosperous, with slow, ponderous, but steady growth; though nothing compared to the larger cities.
 
