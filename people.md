@@ -2,7 +2,7 @@
 title: People
 description: 
 published: 1
-date: 2019-09-03T00:29:28.068Z
+date: 2019-09-14T13:53:01.416Z
 tags: 
 ---
 
@@ -10,3 +10,4 @@ tags:
 
 ## Non-Players
 * [Amadis Teryl](/people/amadis-teryl)
+* [Cid Pendra](/people/cid-pendra)
