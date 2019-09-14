@@ -2,7 +2,7 @@
 title: Steelhold
 description: 
 published: 1
-date: 2019-09-14T03:10:06.908Z
+date: 2019-09-14T03:52:39.795Z
 tags: 
 ---
 
@@ -13,6 +13,6 @@ Steelhold is a small mining town located at the northern-most end of [The Spine]
 
 Now housing around 15,000 souls, it is a good sized Town, filled with farmers, herders, miners, blacksmiths, and many of the minor trades and professions that often pop up to support those professions. The primary trade here is mining, and this shows everywhere. Its people are hardy and large, even the few half-elves that might be seen are far more muscular than would be expected.
 
-Taverns are abundant, you can barely make it a full 4 blocks before you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons. Inns, however, are fairly rare, Steelhold only housing a single, small Inn. You get the feeling that not a lot of travel holds Steelhold as a destination.
+Taverns are abundant, and you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons with startling regularity. Inns, however, are fairly rare, Steelhold only housing a single, small Inn. You get the feeling that not a lot of travel holds this town as a destination.
 
-Strong walls surround the town, with a regular watch patrolling along the tops. Immediately past the Southernmost gate, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, thought it begins to stretch towards the mines, about an 8 mile walk to the south-west.
+Strong walls surround the town, with a regular watch patrolling along the tops. East of the town, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, thought it begins to stretch towards the mines, about an 8 mile walk to the south-west.
