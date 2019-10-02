@@ -1,8 +1,8 @@
 ---
 title: Cid Pendra
 description: 
-published: 1
-date: 2019-09-14T13:53:29.128Z
+published: true
+date: 2019-10-02T03:05:29.249Z
 tags: 
 ---
 
