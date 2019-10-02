@@ -1,8 +1,8 @@
 ---
 title: Steelhold
 description: 
-published: 1
-date: 2019-09-14T03:52:39.795Z
+published: true
+date: 2019-10-02T03:04:23.315Z
 tags: 
 ---
 
