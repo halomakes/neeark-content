@@ -1,8 +1,8 @@
 ---
 title: Locations
 description: 
-published: 1
-date: 2019-09-14T03:10:47.059Z
+published: true
+date: 2019-10-02T03:02:57.830Z
 tags: 
 ---
 
