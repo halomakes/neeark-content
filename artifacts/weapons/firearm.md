@@ -1,8 +1,8 @@
 ---
 title: Firearms
 description: 
-published: 1
-date: 2019-09-02T03:07:16.360Z
+published: true
+date: 2019-10-02T03:02:30.352Z
 tags: 
 ---
 
