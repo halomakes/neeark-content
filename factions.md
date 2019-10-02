@@ -1,8 +1,8 @@
 ---
 title: Factions
 description: 
-published: 1
-date: 2019-10-02T01:26:24.505Z
+published: true
+date: 2019-10-02T03:00:13.919Z
 tags: 
 ---
 
