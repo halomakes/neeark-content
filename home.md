@@ -2,7 +2,7 @@
 title: Néeark
 description: 
 published: true
-date: 2019-10-02T03:12:57.708Z
+date: 2019-10-02T03:13:14.320Z
 tags: 
 ---
 
@@ -17,13 +17,13 @@ Néeark is a world that some say will never be tamed. Despite the prevalence of 
 
 ### Content
 <div class="d-flex flex-wrap">
-    <a class="ma-2 v-card v-sheet theme--light" href="/en/locations">
+    <a class="ma-2 v-card v-sheet theme--light" href="/locations">
         <div class="pa-5 d-flex flex-column align-center justify-center">
             <i class="mdi mdi-city display-4"></i>
             <h3 class="card-title">Locations</h3>
         </div>
     </a>
-    <a class="ma-2 v-card v-sheet theme--light" href="/en/people">
+    <a class="ma-2 v-card v-sheet theme--light" href="/people">
         <div class="pa-5 d-flex flex-column align-center justify-center">
             <i class="mdi mdi-account-group display-4"></i>
             <h3 class="card-title">People</h3>
