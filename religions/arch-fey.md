@@ -1,12 +1,11 @@
 ---
-title: The Archfey
+title: The Arch-Fey
 description: The Archfey, rulers of the Feywild
-published: 1
-date: 2019-10-02T01:39:22.350Z
+published: true
+date: 2019-10-02T03:06:08.243Z
 tags: 
 ---
 
-# The Arch-Fey
 The Arch-Fey are divided into four courts, each taking the name of a season: Summer, Autumn, Winter, Spring. The Summer and Winter courts serve as the two major powers of the Feywild, with the Autmnal and Spring courts holding some power, but nothing near that of the primary courts. The Four Courts serve as the "governments" of the Feywild, though trying to explain to a Mortal what government in the Feywild is like would be akin to explaining the economy of Néeark to an ant.
 
 The major power in the land, and thus, the court that affects the majority of the Feywild is the Summer Court, ruled over by Titania and her consort, Oberon. Together, the two Archfey have worked diligently to keep the Summer Court in power, and its denizens safe and free. Maintaining the magical ebb and flow of the ley-lines, and preventing bleed-through to the material plane (insomuch as it can be prevented), the Summer Court focuses much of its time keeping the Feywild peaceful and just.
