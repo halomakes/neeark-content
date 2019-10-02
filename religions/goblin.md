@@ -1,12 +1,11 @@
 ---
 title: Goblin Deities
 description: Gods and Goddesses worshipped by the Goblins of Néeark.
-published: 1
-date: 2019-10-02T01:40:48.945Z
+published: true
+date: 2019-10-02T03:07:00.956Z
 tags: 
 ---
 
-# Goblin Deities
 Aberration type chaotic subtype cold subtype continuous damage darkness domain dragon type drow domain favored class fey type fly frightful presence incorporeal subtype initiative count magic domain medium outer plane plant type positive energy retribution domain silver piece sonic attack spell preparation spell resistance stunned thirst trained turned vermin type. Ability modifier arcane spell armor class caster level catching on fire cure spell falling fey type figment subschool incorporeal nonlethal damage plane of shadow water domain. (filler text for now, working on this blurb)
 
 ## Tlāloc
