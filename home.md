@@ -2,7 +2,7 @@
 title: Néeark
 description: 
 published: 1
-date: 2019-10-02T01:32:36.255Z
+date: 2019-10-02T01:42:01.263Z
 tags: 
 ---
 
@@ -35,12 +35,6 @@ Néeark is a world that some say will never be tamed. Despite the prevalence of 
             <h3 class="card-title">Factions</h3>
         </div>
     </a>
-    <a class="ma-2 v-card v-sheet theme--light" href="/religions">
-      <div class="pa-5 d-flex flex-column align-center justify-center">
-        <i class="mdi mdi-islam display-4"></i>
-        <h3 class="card-title">Religions</h3>
-      </div>
-    </a>
     <a class="ma-2 v-card v-sheet theme--light" href="/abilities">
         <div class="pa-5 d-flex flex-column align-center justify-center">
             <i class="mdi mdi-auto-fix display-4"></i>
@@ -58,6 +52,12 @@ Néeark is a world that some say will never be tamed. Despite the prevalence of 
             <i class="mdi mdi-paw display-4"></i>
             <h3 class="card-title">Creatures</h3>
         </div>
+    </a>
+    <a class="ma-2 v-card v-sheet theme--light" href="/religions">
+      <div class="pa-5 d-flex flex-column align-center justify-center">
+        <i class="mdi mdi-islam display-4"></i>
+        <h3 class="card-title">Religions</h3>
+      </div>
     </a>
 </div>
 
