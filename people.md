@@ -1,8 +1,8 @@
 ---
 title: People
 description: 
-published: 1
-date: 2019-09-14T13:53:01.416Z
+published: true
+date: 2019-10-02T03:04:44.340Z
 tags: 
 ---
 
