@@ -2,7 +2,7 @@
 title: Steelhold
 description: 
 published: true
-date: 2019-10-05T01:04:58.476Z
+date: 2019-10-05T01:05:10.502Z
 tags: 
 ---
 
@@ -17,4 +17,4 @@ Taverns are abundant, and you come across another establishment offering Ale, Ci
 
 Strong walls surround the town, with a regular watch patrolling along the tops. East of the town, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, thought it begins to stretch towards the mines, about an 8 mile walk to the south-west.
 
-It is governed by mayor [Cid Pendra](/people/cid-pendra)
+It is governed by mayor [Cid Pendra](/people/cid-pendra).
