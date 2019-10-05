@@ -2,7 +2,7 @@
 title: The Hunt
 description: 
 published: true
-date: 2019-10-02T03:00:39.750Z
+date: 2019-10-05T01:08:32.687Z
 tags: 
 ---
 
@@ -14,3 +14,6 @@ The Hunt is headquarted in [Kyria Pol](/locations/kyria-pol).  It is currently l
 * Protection
 * Goods Acquisition
 * Political Assassination <sup>*needs citation*</sup>
+
+## Hunting Parties
+Hunters used to be able to choose their own parties.  However, this system was found to be unbalanced and parties are now assigned by Hunt administration.  Parties are generally considered to be permanent formations except in fringe scenarios.
