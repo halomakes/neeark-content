@@ -2,7 +2,7 @@
 title: Steelhold
 description: 
 published: true
-date: 2019-10-02T03:04:23.315Z
+date: 2019-10-05T01:04:58.476Z
 tags: 
 ---
 
@@ -16,3 +16,5 @@ Now housing around 15,000 souls, it is a good sized Town, filled with farmers, h
 Taverns are abundant, and you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons with startling regularity. Inns, however, are fairly rare, Steelhold only housing a single, small Inn. You get the feeling that not a lot of travel holds this town as a destination.
 
 Strong walls surround the town, with a regular watch patrolling along the tops. East of the town, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, thought it begins to stretch towards the mines, about an 8 mile walk to the south-west.
+
+It is governed by mayor [Cid Pendra](/people/cid-pendra)
