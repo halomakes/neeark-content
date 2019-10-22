@@ -2,9 +2,10 @@
 title: Factions
 description: 
 published: true
-date: 2019-10-02T03:00:13.919Z
+date: 2019-10-22T04:11:07.765Z
 tags: 
 ---
 
-* [The Hunt](/factions/the-hunt)
 * [Goblins](/factions/goblins)
+* [The Hunt](/factions/the-hunt)
+* [Kunham Weapons](/factions/kunham-weapons)
