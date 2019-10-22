@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2019-10-22T03:49:14.897Z
+date: 2019-10-22T03:51:19.513Z
 tags: 
 ---
 
@@ -18,4 +18,4 @@ tags:
 ## Non-Players
 * [Amadis Teryl](/people/amadis-teryl)
 * [Cid Pendra](/people/cid-pendra)
-* [Khalil Kodama](/people/khalil-kodama)
+* [Kaleehl Kunham](/people/khalil-kodama)
