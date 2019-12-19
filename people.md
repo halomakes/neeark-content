@@ -2,12 +2,12 @@
 title: People
 description: 
 published: true
-date: 2019-10-22T03:51:38.567Z
+date: 2019-12-19T04:20:13.130Z
 tags: 
 ---
 
 ## Players
-* Cal'Rana
+* [Cal'Rana Lightfall](/people/calrana-lightfall)
 * [Calum Clarke](/people/calum-clarke)
 * [Curd](/people/curd)
 * [Derrick Branscomb](/people/derrick-branscomb)
@@ -19,3 +19,4 @@ tags:
 * [Amadis Teryl](/people/amadis-teryl)
 * [Cid Pendra](/people/cid-pendra)
 * [Kaleehl Kunham](/people/kaleehl-kunham)
+* [Garalon](/people/garalon)
