@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2019-12-19T04:20:13.130Z
+date: 2019-12-19T04:20:32.321Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 * [Curd](/people/curd)
 * [Derrick Branscomb](/people/derrick-branscomb)
 * [Serephina Leafthorn](/people/serephina-leafthorn)
-* Soliana
+* [Soliana](people/soliana)
 * [Vuku](/people/vuku)
 
 ## Non-Players
