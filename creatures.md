@@ -2,7 +2,7 @@
 title: Creatures
 description: 
 published: true
-date: 2019-12-29T14:33:03.271Z
+date: 2019-12-29T14:33:17.060Z
 tags: 
 ---
 
@@ -34,4 +34,4 @@ Monsters are said to have existed in Néeark as long as life has existed in Née
 * [Kulu-Ya-Ku](/creatures/kulu-ya-ku)
 
 ## Fey Creatures
-[Faerie Dragon](/creatures/faerie-dragon)
+* [Faerie Dragon](/creatures/faerie-dragon)
