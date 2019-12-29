@@ -2,7 +2,7 @@
 title: Calum Clarke
 description: fuck this wall
 published: true
-date: 2019-12-29T22:32:38.353Z
+date: 2019-12-29T22:35:41.885Z
 tags: 
 ---
 
@@ -14,6 +14,11 @@ Calum Clarke is a half-elf ranger in The Hunt.
 Clarke measures roughly 5'7" in height.  He has fair skin, green eyes, and thick, unkempt brown hair.  
 
 ## History
+The bastard son of an elven father and human mother, Clarke had to learn to survive alone from a young age.  His father left before he was born and Clarke recalls little of his mother except that they seemed to frequently get separated in crowds.  The last time he saw his mother was before being caught up in a skirmish with some beasts at the city outskirts - she was presumed dead after that.  
+He has grown somewhat resentful of family structures and regards reliance on others as weakness.  He is still willing to offer a helping hand and will resort to being on the receiving end of such aid, albeit to the detriment of his own pride.  
+He spent many of his years alone exploring the wilderness, without venturing too far away from the coast. He developed a strong connection to nature and the ability to use some basic spells, which seemingly earning favor among some who roam the Feywoods - at least as close a thing to favor as one can find in those regions.
+
+
 
 ## Skills
 ### Infernal Language
@@ -25,5 +30,5 @@ Clarke preferrs not to be weighed down by attachment to the ground and will typi
 ### Tactical Bear Trap
 Clarke places bear traps strategially around campsites to ensare encroaching foes.
 
-### Team Killing Fucktard
+### [Team-Killing Fucktard](https://www.youtube.com/watch?v=08xYvO4iI_Y)
 Clark has a tendency to accidentally cause friendly fire when using [Hail of Thorns](https://www.dnd-spells.com/spell/hail-of-thorns).
