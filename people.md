@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2019-12-29T14:10:16.437Z
+date: 2019-12-29T14:13:08.738Z
 tags: 
 ---
 
@@ -10,10 +10,9 @@ tags:
 * [Cal'Rana Lightfall](/people/calrana-lightfall)
 * [Calum Clarke](/people/calum-clarke)
 * [Curd](/people/curd)
-* [Derrick Branscomb](/people/derrick-branscomb)
-* [Serephina Leafthorn](/people/serephina-leafthorn)
 * [Soliana](people/soliana)
 * [Vuku](/people/vuku)
+* [Oonawieh Falcondance](/people/oonawieh-falcondance)
 
 ## Non-Players
 * [Amadis Teryl](/people/amadis-teryl)
