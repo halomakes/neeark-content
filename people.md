@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2019-12-29T14:13:08.738Z
+date: 2019-12-29T22:46:39.378Z
 tags: 
 ---
 
@@ -23,3 +23,4 @@ tags:
 * [Anlow Armanci](/people/anlow-armanci)
 * [Alin and Buhra Oriel (The Delinquent Miner)](/people/the-oriels)
 * [Bliss (The Sober Dwarf)](/people/bliss)
+* [Nyloth](/people/nyloth)
