@@ -2,11 +2,11 @@
 title: Calum Clarke
 description: fuck this wall
 published: true
-date: 2019-12-29T22:40:40.992Z
+date: 2019-12-29T23:20:35.249Z
 tags: 
 ---
 
-<img src="https://raw.githubusercontent.com/halomademeapc/neeark-content/master/assets/people/clarke.png" style="max-width: 300px" alt="Calum Clarke" />
+<img src="https://raw.githubusercontent.com/halomademeapc/neeark-content/master/assets/people/clarke.jpg" style="max-width: 300px" alt="Calum Clarke" />
 
 Calum Clarke is a half-elf ranger in The Hunt.
 
