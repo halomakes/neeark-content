@@ -2,11 +2,11 @@
 title: Kaleehl Kunham
 description: a bitch.
 published: true
-date: 2019-10-22T04:08:44.789Z
+date: 2019-12-29T23:22:56.098Z
 tags: 
 ---
 
-<img src="/people/kaleehl.png" style="max-width: 300px" alt="Kaleehl Kunham, a bitch" />
+<img src="https://raw.githubusercontent.com/halomademeapc/neeark-content/master/assets/people/kaleehl.png" style="max-width: 300px" alt="Kaleehl Kunham, a bitch" />
 
 Kawheel Cumham is a prominent member of the [Kunham family weapons](/factions/kunham-weapons) empire.  
 
