@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2019-10-22T03:30:52.757Z
+date: 2019-12-29T22:51:44.111Z
 tags: 
 ---
 
@@ -22,3 +22,10 @@ The land of Néeark is comprised primarily of two continents, separated by two m
 
 ## Natural Structures
 - [The Wall](/locations/the-wall)
+
+## Eras
+The history of Néeark is divided into two eras. 
+
+### Age of Bone
+
+### Age of Steel
