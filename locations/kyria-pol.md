@@ -2,13 +2,13 @@
 title: Kyria Pol
 description: Home of The Hunt
 published: true
-date: 2019-12-29T15:05:16.405Z
+date: 2019-12-29T15:06:25.904Z
 tags: 
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=1t5XL8owBmaB5iBJAB8DGiUyPdNFPOrAT" style="height:650px" />
 
-Kyria Pol is a city located on the coast of the eastern continent.
+Kyria Pol is a city located on the coast of the eastern continent, Priodomus.
 
 It is the unofficial "Capitol" of the world, hosting just over three hundred thousand souls. It is also the Cultural driving force within Néeark. Every sentient race is represented here, and opportunity to prosper abounds, however, one man's windfall is usually another's bankruptcy. The amount of coin that runs through Kyria Pol in a day is enough to make even the most ancient dragon jealous.
 
