@@ -1,10 +1,12 @@
 ---
 title: Kyria Pol
 description: Home of The Hunt
-published: 1
-date: 2019-09-02T02:42:06.936Z
+published: true
+date: 2019-12-29T15:05:16.405Z
 tags: 
 ---
+
+<img src="https://drive.google.com/uc?export=view&id=1t5XL8owBmaB5iBJAB8DGiUyPdNFPOrAT" style="height:650px" />
 
 Kyria Pol is a city located on the coast of the eastern continent.
 
