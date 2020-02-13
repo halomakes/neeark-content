@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2019-12-29T22:46:39.378Z
+date: 2020-02-13T00:34:30.293Z
 tags: 
 ---
 
@@ -24,3 +24,4 @@ tags:
 * [Alin and Buhra Oriel (The Delinquent Miner)](/people/the-oriels)
 * [Bliss (The Sober Dwarf)](/people/bliss)
 * [Nyloth](/people/nyloth)
+* [Vinarth](/people/vinarth)
