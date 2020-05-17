@@ -2,7 +2,7 @@
 title: Amadis Teryl
 description: 
 published: true
-date: 2019-12-29T23:01:34.532Z
+date: 2020-05-17T23:18:42.623Z
 tags: 
 ---
 

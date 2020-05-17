@@ -2,7 +2,7 @@
 title: Firearms
 description: 
 published: true
-date: 2019-10-02T03:02:30.352Z
+date: 2020-05-17T23:18:52.771Z
 tags: 
 ---
 

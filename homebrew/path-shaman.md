@@ -1,8 +1,8 @@
 ---
 title: Path of the Shaman
-description: Some barbarians are called by the land they live in to be more than a champion of combat. 
+description: Some barbarians are called by the land they live in to be more than a champion of combat.
 published: true
-date: 2020-01-05T03:53:08.106Z
+date: 2020-05-17T23:18:38.251Z
 tags: 
 ---
 

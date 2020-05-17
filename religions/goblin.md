@@ -2,7 +2,7 @@
 title: Goblin Deities
 description: Gods and Goddesses worshipped by the Goblins of Néeark.
 published: true
-date: 2019-10-02T03:07:00.956Z
+date: 2020-05-17T23:18:51.325Z
 tags: 
 ---
 

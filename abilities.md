@@ -2,7 +2,7 @@
 title: Abilities
 description: Spells, traits, and other miscellaneous abilities of the peoples of Néeark.
 published: true
-date: 2019-10-22T04:13:28.267Z
+date: 2020-05-17T23:18:27.993Z
 tags: 
 ---
 

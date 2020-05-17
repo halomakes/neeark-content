@@ -2,7 +2,7 @@
 title: Kunham Weapons
 description: A glorious day for capitalism
 published: true
-date: 2019-10-22T04:10:18.807Z
+date: 2020-05-17T23:18:36.053Z
 tags: 
 ---
 

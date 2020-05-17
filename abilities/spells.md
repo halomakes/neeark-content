@@ -1,8 +1,8 @@
 ---
 title: Spells
 description: Lightning bolt! Lightning bolt!
-published: 1
-date: 2019-10-02T01:52:49.169Z
+published: true
+date: 2020-05-17T23:18:34.610Z
 tags: 
 ---
 

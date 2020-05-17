@@ -2,7 +2,7 @@
 title: Artifacts
 description: 
 published: true
-date: 2019-10-02T03:01:38.857Z
+date: 2020-05-17T23:18:28.713Z
 tags: 
 ---
 

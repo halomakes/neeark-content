@@ -2,7 +2,7 @@
 title: Curd
 description: Cleric of Tlaloc
 published: true
-date: 2019-12-19T04:16:57.914Z
+date: 2020-05-17T23:18:45.485Z
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: College of Chance
 description: Playin' for keeps is still playin', mon ami, so take a card...ANY CARD! - Remy Le Beau
 published: true
-date: 2020-01-23T01:58:51.004Z
+date: 2020-05-17T23:18:37.493Z
 tags: 
 ---
 
