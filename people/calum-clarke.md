@@ -2,7 +2,7 @@
 title: Calum Clarke
 description: fuck this wall
 published: true
-date: 2020-05-17T23:18:44.073Z
+date: 2020-05-18T01:14:11.036Z
 tags: 
 ---
 
@@ -33,4 +33,22 @@ Clarke preferrs not to be weighed down by attachment to the ground and will typi
 Clarke places bear traps strategially around campsites to ensare encroaching foes.
 
 ### [Team-Killing Fucktard](https://www.youtube.com/watch?v=08xYvO4iI_Y)
-Clark has a tendency to accidentally cause friendly fire when using [Hail of Thorns](https://www.dnd-spells.com/spell/hail-of-thorns).
+Clarke has a tendency to accidentally cause friendly fire when using [Hail of Thorns](https://www.dnd-spells.com/spell/hail-of-thorns).
+
+### Canon Operator
+Clarke recieved instruction on the operations of vessel-mounted cannons and was able to master the skill without paying full attention, suggesting some natural talent in the field.  
+
+## Adversaries
+### [The Wall](/locations/the-wall)
+![The Wall](/wall.png)
+The wall is an unscalable natural formation that Calum could not get over after four full turns of battle.
+
+### Socializing
+Social interaction remains a constant foe for Clarke.  During prolonged discourse with other individuals, we will often try to flee the scene or blend into his surroundings.  
+
+## Affinities
+### The Oar
+While exploring the first lair of [Nyloth](/people/nyloth), Calum developed a strong attachment to a rowboat oar, proceeding to carry it with him across the ocean to the West Continent. 
+
+### Lost Bear Trap
+Clarke lost his original hunting trap in an encounted with tentacled foes on a river in the West Continent.  Some say the trap remains lodged to the beast as it dwells the murky depths to this day.  Only fate will tell if Clarke will ever be reunited with his precious bear trap.  
