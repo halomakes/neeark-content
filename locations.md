@@ -2,15 +2,15 @@
 title: Locations
 description: 
 published: true
-date: 2020-05-17T23:18:32.417Z
+date: 2020-09-30T22:28:58.071Z
 tags: 
 ---
 
 ## Overview
 The land of Néeark is comprised primarily of two continents, separated by two main seas: The Platinum Sea and the Northern Tides. To the West, the continent of Ineon hosts Daso, a massive forest said to nearly meld with the Feywild in many places. To the East, the continent of Priodomus houses the majority of the human population.
 
-[![Map of Néeark](https://i.redd.it/7z22y1375hm31.jpg =640x)](https://i.redd.it/7z22y1375hm31.jpg)
-[<i class="mdi mdi-magnify-plus-outline"></i>View Full-Size](https://i.redd.it/7z22y1375hm31.jpg)
+[![Map of Néeark](https://inkarnate-api-as-production.s3.amazonaws.com/dbwqo9r0pepl4bmmcvcrvu18iunl =640x)](https://inkarnate-api-as-production.s3.amazonaws.com/dbwqo9r0pepl4bmmcvcrvu18iunl)
+[<i class="mdi mdi-magnify-plus-outline"></i>View Full-Size](https://inkarnate-api-as-production.s3.amazonaws.com/dbwqo9r0pepl4bmmcvcrvu18iunl)
 
 
 
