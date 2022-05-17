@@ -2,8 +2,10 @@
 title: Locations
 description: 
 published: true
-date: 2020-09-30T22:28:58.071Z
+date: 2022-05-17T17:04:11.569Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T03:02:57.830Z
 ---
 
 ## Overview
@@ -19,6 +21,7 @@ The land of Néeark is comprised primarily of two continents, separated by two m
 - [Kyria Pol](/locations/kyria-pol)
 - [Ielelumé](/locations/ielelume)
 - [Steelhold](/locations/steelhold)
+- [Fallwind](/locations/fallwind)
 
 ## Natural Structures
 - [The Wall](/locations/the-wall)
