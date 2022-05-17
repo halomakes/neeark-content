@@ -1,8 +1,8 @@
 ---
 title: Locations
-description: 
+description: A list of the known cities, natural structures, and important locations of Néeark.
 published: true
-date: 2022-05-17T17:51:23.675Z
+date: 2022-05-17T17:52:35.431Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:02:57.830Z
