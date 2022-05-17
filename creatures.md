@@ -2,8 +2,10 @@
 title: Creatures
 description: 
 published: true
-date: 2020-05-17T23:18:29.455Z
+date: 2022-05-17T18:40:20.359Z
 tags: 
+editor: markdown
+dateCreated: 2019-12-29T14:33:03.271Z
 ---
 
 # The Creatures of Néeark
@@ -12,7 +14,7 @@ Néeark is home to a vast variety of creatures, both docile and deadly. During t
 ## Monsters
 Monsters are said to have existed in Néeark as long as life has existed in Néeark. They are simultaneously the cause of much death and destruction and the reason for the advancements in comfort and security that the citizens of Néeark have enjoyed.
 
-#### Herbivores
+### Herbivores
 * [Anteka](/creatures/anteka)
 * [Popo](/creatures/popo)
 * [Gastodon](/creatures/gastodon)
@@ -21,17 +23,8 @@ Monsters are said to have existed in Néeark as long as life has existed in Née
 * [Aptonoth](/creatures/aptonoth)
 * [Larinoth](/creatures/larinoth)
 
-#### Theropods
-* [Jaggi](/creatures/jaggi)
-* [Jaggia](/creatures/jaggia)
-* [Great Jaggi](/creatures/great)
-* [Baggi](/creatures/baggi)
-* [Great Baggi](/creatures/great)
-* [Wroggi](/creatures/wroggi)
-* [Great Wroggi](/creatures/great)
-* [Velociprey](/creatures/velociprey)
-* [Velocidrome](/creatures/velocidrome)
-* [Kulu-Ya-Ku](/creatures/kulu-ya-ku)
+### Leviathan
 
-## Fey Creatures
+
+### Fey Creatures
 * [Faerie Dragon](/creatures/faerie-dragon)
