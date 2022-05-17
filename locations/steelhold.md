@@ -2,7 +2,7 @@
 title: Steelhold
 description: 
 published: true
-date: 2022-05-17T17:53:44.709Z
+date: 2022-05-17T17:54:15.790Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:04:23.315Z
@@ -15,8 +15,8 @@ Steelhold is a small mining town located at the northern-most end of [The Spine]
 
 Now housing around 1,200 souls, it is a good sized Town, filled with farmers, herders, miners, blacksmiths, and many of the minor trades and professions that often pop up to support those professions. The primary trade here is mining, and this shows everywhere. Its people are hardy and large, even the few half-elves that might be seen are far more muscular than would be expected.
 
-Taverns are abundant, and you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons with startling regularity. Inns, however, are fairly rare, Steelhold only housing a single, small Inn. You get the feeling that not a lot of travel holds this town as a destination.
+Taverns are abundant, and you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons with startling regularity. Inns, however, are fairly rare, Steelhold only housing a single, small Inn.
 
-Strong walls surround the town, with a regular watch patrolling along the tops. East of the town, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, thought it begins to stretch towards the mines, about an 8 mile walk to the south-west.
+Strong walls surround the town, with a regular watch patrolling along the tops. East of the town, several miles of farmland stretch before the town proper begins, the town itself encompassing only around 3 square miles, stretched out over about 4 miles total. The city hugs the coast, though it begins to stretch towards the mines, about an 8 mile walk to the south-west.
 
 It is governed by mayor [Cid Pendra](/people/cid-pendra).
