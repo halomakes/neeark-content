@@ -1,14 +1,12 @@
 ---
 title: Fallwind
-description: 
+description: The city of Kyn.
 published: true
-date: 2022-05-17T18:15:06.297Z
+date: 2022-05-17T18:15:38.292Z
 tags: cities, locations
 editor: markdown
 dateCreated: 2022-05-17T17:50:07.229Z
 ---
-
-# Fallwind, the city of Kyn
 
 ## Overview
 Fallwind is a large town situated on the north-eastern shores of Lake Mimm Jakr. Originally two nearby towns: the Dwarven town of Hrutvan established during the late years of the Age of Bone, and the Human town of Clearwater established in 63 AS. The two towns existed in a cautious, but calm peace, with the fisherman and farmers of Clearwater providing food and raw materials to Hrutvan, receiving metal tools, artisan goods, and strong building materials from Hrutvan.
