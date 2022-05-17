@@ -2,7 +2,7 @@
 title: Creatures
 description: 
 published: true
-date: 2022-05-17T18:40:20.359Z
+date: 2022-05-17T18:41:18.564Z
 tags: 
 editor: markdown
 dateCreated: 2019-12-29T14:33:03.271Z
@@ -24,7 +24,7 @@ Monsters are said to have existed in Néeark as long as life has existed in Née
 * [Larinoth](/creatures/larinoth)
 
 ### Leviathan
-
+* [Abyssal Lagiacrus](/creatures/abyssal-lagiacrus)
 
 ### Fey Creatures
 * [Faerie Dragon](/creatures/faerie-dragon)
