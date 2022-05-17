@@ -2,7 +2,7 @@
 title: Fallwind
 description: The city of Kyn.
 published: true
-date: 2022-05-17T18:54:23.621Z
+date: 2022-05-17T18:54:46.422Z
 tags: cities, locations
 editor: markdown
 dateCreated: 2022-05-17T17:50:07.229Z
@@ -22,6 +22,6 @@ Fallwind, like many cities established early on, is fairly self-sufficient by re
 
 Due to the unique history of Fallwind, its fishing supplies are considered to be the best by a wide margin, with towns as far away as Steelhold paying good coin for Fallwind fishing gear.
 
-Additionally, several species of fish and marine life are home only to Lake Mimm Jakr, with a set number of licenses going out each year, almost always exclusively to the established fishing families of Fallwind.
+Additionally, several species of fish and marine life are home only to Lake Mimm Jakar, with a set number of licenses going out each year, almost always exclusively to the established fishing families of Fallwind.
 
 The Hrutvan mines are still active, with tunnels stretching wide and deep within the Taivan range providing access to metals and precious gems.
