@@ -2,8 +2,10 @@
 title: Kyria Pol
 description: Home of The Hunt
 published: true
-date: 2020-05-17T23:18:40.455Z
+date: 2022-05-17T18:30:44.056Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T02:50:27.819Z
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=1t5XL8owBmaB5iBJAB8DGiUyPdNFPOrAT" style="height:650px" />
@@ -17,5 +19,3 @@ The main source and consumer of this coin is [The Hunt](/factions/the-hunt), aro
 Harnessing the powerful abilities of the very monsters that threatened them allowed the ancestors of modern species to not only survive, but begin to thrive. As defenses strength-ened, and food production grew both more consistent and more abundant, specialist began to experiment and refine the use of these materials, beginning a cycle of ever increasing technology and magick, each invention growing on the last.
 
 Partnering with Hunters, these earliest scholars quickly formed a symbiotic relationship, the Hunters relying on the Scholars for better weapons and armor, the Scholars relying on the Hunters for access to new materials for research. So the beginnings of The Hunt were formed, ever evolving and growing into the psuedo-government it is today.
-
-Being the "cradle of civilization" has naturally made Kyria Pol the most advanced city in the world, and the majority of the factories that are becoming more common in recent years. [Magick](/abilities/magick) and technology are nearly synonymous here, with Master Wizards working to deconstruct the magicks they wield, and many Apprentices working on magickal item "construction lines", producing [Prestidigitation Pearls](/artifacts/prestidigitation-pearl), [Minor Illusion Arm-bands](/artifacts/illusion-arm-band), [Light Wands](/artifacts/light-wand), and more for public consumption.
