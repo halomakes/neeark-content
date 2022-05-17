@@ -2,8 +2,10 @@
 title: Steelhold
 description: 
 published: true
-date: 2020-05-17T23:18:41.181Z
+date: 2022-05-17T17:53:44.709Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T03:04:23.315Z
 ---
 
 [![Map of Steelhold](https://i.redd.it/9sv67z6c5hm31.jpg =640x)](https://i.redd.it/9sv67z6c5hm31.jpg)
@@ -11,7 +13,7 @@ tags:
 
 Steelhold is a small mining town located at the northern-most end of [The Spine](/locations/the-spine). Established only 100 years after [Kyria Pol](/locations/kyria-pol), it has served as the primary source of both iron and [Popo](/creatures/herbavores/popo) meat, fur, and milk for its "big sister" city. Though fairly far from civilization, it has managed to remain fairly prosperous, with slow, ponderous, but steady growth; though nothing compared to the larger cities.
 
-Now housing around 15,000 souls, it is a good sized Town, filled with farmers, herders, miners, blacksmiths, and many of the minor trades and professions that often pop up to support those professions. The primary trade here is mining, and this shows everywhere. Its people are hardy and large, even the few half-elves that might be seen are far more muscular than would be expected.
+Now housing around 1,200 souls, it is a good sized Town, filled with farmers, herders, miners, blacksmiths, and many of the minor trades and professions that often pop up to support those professions. The primary trade here is mining, and this shows everywhere. Its people are hardy and large, even the few half-elves that might be seen are far more muscular than would be expected.
 
 Taverns are abundant, and you come across another establishment offering Ale, Cider, Wine, Mead, or any number of stronger poisons with startling regularity. Inns, however, are fairly rare, Steelhold only housing a single, small Inn. You get the feeling that not a lot of travel holds this town as a destination.
 
