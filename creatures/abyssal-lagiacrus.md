@@ -2,7 +2,7 @@
 title: Abyssal Lagiacrus
 description: The Dark Sea Wyvern
 published: true
-date: 2022-05-17T18:53:02.985Z
+date: 2022-05-17T18:54:16.455Z
 tags: monster, leviathan
 editor: markdown
 dateCreated: 2022-05-17T18:43:17.336Z
@@ -19,9 +19,7 @@ Its shell is a lustrous black, and, unlike its cousins, it is bio-luminescent. A
 It appears to always be in a fully charged state, with all of its spikes constantly glowing at maximum power. It can fire electrical blasts from its mouth that send pulses of electricity everywhere, very much like the blast of Ivory Lagiacrus. Abyssal Lagiacrus is unique among its brethren in that it is known to use the motions of its serpentine body to create underwater whirlpools that can disorient hunters and set them up for a devastating blow.
 
 ### Habitat
-The Abyssal Lagiacrus variant has only been seen once, in the specimen which destroyed Fallwind. It is unclear to Scholars what prompted this mutation, and it has not been seen since. The Lagiacrus of Lake Mimm Jakar have been intensely studied in the subsequent years, with no clear explanation found as of yet.
-
-
+The Abyssal Lagiacrus variant has only been seen once, in the specimen which destroyed Fallwind. It is unclear to Scholars what prompted this mutation, and it has not been seen since. The Lagiacrus of Lake Mimm Jakar have been intensely studied in the subsequent years, with no clear explanation found as of yet, thought by the Hunt's own admission, the depths of Lake Mimm Jakar cannot be thoroughly scoured.
 
 
 [^1]: This would however lead the the creation of [Fallwind](../locations/fallwind).
