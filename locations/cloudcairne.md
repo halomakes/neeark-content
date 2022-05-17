@@ -2,13 +2,13 @@
 title: Cloudcairn
 description: 
 published: true
-date: 2022-05-17T17:56:02.298Z
+date: 2022-05-17T17:56:26.756Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:03:23.847Z
 ---
 
-Cloudcairn is one of the three largest cities in Néeark, perched atop a large plateau on the eastern continent near the [Voiceless Steppe](/locations/voiceless-steppe). Cloudcairne was one of the first major "Projects" funded by a Dragonborn with coin to burn nearly 900 years ago. The largest expenses came from clearing Cloud Plateau of the many powerful creatures that called it their home. Some accounts seem point to a large tribe of [Cloud Giants](/creatures/cloud-giant), however, this tale is adamantly rejected by Cloudcairne's leadership, insisting that no intelligent species called the plateau its home prior to the construction of the city; official records cite a herd of [Kirin](/creatures/kirin) as the primary obstacle.
+Cloudcairn is one of the three largest cities in Néeark, perched atop a large plateau on the eastern continent near the [Voiceless Steppe](/locations/voiceless-steppe). Cloudcairne was one of the first major "Projects" funded by a Dragonborn with coin to burn nearly 350 years ago. The largest expenses came from clearing Cloud Plateau of the many powerful creatures that called it their home. Some accounts seem point to a large tribe of [Cloud Giants](/creatures/cloud-giant), however, this tale is adamantly rejected by Cloudcairne's leadership, insisting that no intelligent species called the plateau its home prior to the construction of the city; official records cite a herd of [Kirin](/creatures/kirin) as the primary obstacle.
 
 Its position at the top of a sheer cliff with a single, colossal winding staircase gives it an incredibly powerful defensive advantage, allowing the city to focus its defense primarily on airborne threats. Cloucairne was designed such that no flying creature, be it a [Wingdrake](/creatures/wingdrake) or a [Dragon](/creatures/dragon), would persist in an attack against the city. Magical ballista encircle the city, firing large iron projectiles at supersonic speeds, and rumors abound about an invisible magical dome protecting the city, though it has never been activated.
 
