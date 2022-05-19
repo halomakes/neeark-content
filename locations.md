@@ -2,7 +2,7 @@
 title: Locations
 description: A list of the known cities, natural structures, and important locations of Néeark.
 published: true
-date: 2022-05-19T01:34:04.660Z
+date: 2022-05-19T01:34:26.717Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:02:57.830Z
@@ -35,4 +35,4 @@ The actual number of years attributed to the age of Bone varies from culture to 
 What is known is that during the Age of Bone, the three "Elder" species of Néeark, the Humans, Dwarves, and Elves, fought tooth, nail, and borrowed claw for their place in the world.
 
 ### Age of Steel
-Scholars have decided on the date that the first Elder Dragon attack against Kyria Pol was successfully repelled as the beginning of the Age of Steel. The reasoning behind this, per the official statement of the Hunt scholars, is that this marked the beginning of the cities, the walls of which protected its citizens with a certainty never before achieved. The Hunt had successfully tamed a few small cities across Priodomus. Their eyes soon cast out across the Platinum Sea...
+Scholars have decided on the date that the first Elder Dragon attack against Kyria Pol was successfully repelled as the beginning of the Age of Steel. The reasoning behind this, per the official statement of the Hunt scholars, is that this marked the beginning of the cities, the walls of which protected its citizens with a certainty never before achieved. The Hunt had successfully tamed a few small cities across Priodomus. Their ambitions soon extending even across the Platinum Sea...
