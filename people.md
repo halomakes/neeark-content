@@ -2,7 +2,7 @@
 title: People
 description: 
 published: true
-date: 2022-09-09T01:56:49.468Z
+date: 2022-09-09T02:04:29.562Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:04:44.340Z
@@ -15,6 +15,7 @@ dateCreated: 2019-10-02T03:04:44.340Z
 * [Soliana](people/soliana)
 * [Vuku](/people/vuku)
 * [Oonawieh Falcondance](/people/oonawieh-falcondance)
+* [Urid Axepike](/people/urid-axepike)
 
 ## Non-Players
 * [Amadis Teryl](/people/amadis-teryl)
