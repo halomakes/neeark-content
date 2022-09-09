@@ -2,8 +2,10 @@
 title: People
 description: 
 published: true
-date: 2020-05-17T23:18:33.167Z
+date: 2022-09-09T01:56:49.468Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T03:04:44.340Z
 ---
 
 ## Players
@@ -25,3 +27,13 @@ tags:
 * [Bliss (The Sober Dwarf)](/people/bliss)
 * [Nyloth](/people/nyloth)
 * [Vinarth](/people/vinarth)
+* [Toacoa](/people/toacoa)
+* [Rauco Nosse](/people/rauco-nosse)
+* [Rusty](/people/rusty)
+* [Alessandro](/people/alessandro)
+* [Madamoiselle Chanterelle Olivia Marie-Louise Nicollette Marie Emilie Louise Margaux Aimee Katia Vivienne Le Tonnelier](/people/annoying-lady)
+* [Rinn](/people/rinn)
+* [Tiberius Vance](/people/tiberius-vance)
+* [Mareen Rylee](/people/mareen-rylee)
+* [Gralnir Truebow](/people/gralnir-truebow)
+* [Maaerys](/people/maaerys)
