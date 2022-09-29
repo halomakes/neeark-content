@@ -2,7 +2,7 @@
 title: Locations
 description: A list of the known cities, natural structures, and important locations of Néeark.
 published: true
-date: 2022-05-19T01:34:26.717Z
+date: 2022-09-29T02:36:04.390Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T03:02:57.830Z
@@ -22,6 +22,7 @@ The land of Néeark is comprised primarily of two continents, separated by two m
 - [Ielelumé](/locations/ielelume)
 - [Steelhold](/locations/steelhold)
 - [Fallwind](/locations/fallwind)
+- [Naenasera](/locations/naenasera)
 
 ## Natural Structures
 - [The Wall](/locations/the-wall)
