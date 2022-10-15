@@ -2,11 +2,13 @@
 title: Goblins
 description: Goblins of Néeark
 published: true
-date: 2020-05-17T23:18:35.338Z
+date: 2022-10-15T04:19:08.532Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T02:50:27.802Z
 ---
 
-The Goblins of Néeark have a very tribal and secluded life-style in comparison to the other sentient species of Néeark. Easily as intelligent as most other species, the majority of Goblins nevertheless refuse to follow in the steps of their more "civilized" counterparts. Their homes and temples are built of wood and stone, and they rely on walls and secluded locations to avoid becoming a mid-day snack for a passing Rathalos.
+The Goblins of Néeark have a very tribal and secluded life-style in comparison to the other sentient species of Néeark. Easily as intelligent as most other species, the majority of Goblins nevertheless refuse to follow in the steps of their more "civilized" counterparts. Their homes and temples are built of wood, stone, and bone, and they rely on walls and secluded locations to avoid becoming a mid-day snack for a passing Rathalos.
 
 Most Goblins have a close relationship with one or more of the Goblin deities, with each Goblin city constantly competing to build the best temple to their chosen deities. In so doing, instead of demolishing an old temple and building a new one at the same site, they simply build over the old structure. This has led to immense, well-proportioned, and beautifully decorated temples at the heart of most Goblin cities.
 
