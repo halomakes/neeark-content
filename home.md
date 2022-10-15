@@ -2,7 +2,7 @@
 title: Néeark
 description: 
 published: true
-date: 2022-10-15T01:29:41.791Z
+date: 2022-10-15T01:30:16.589Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T02:48:53.931Z
@@ -10,10 +10,7 @@ dateCreated: 2019-10-02T02:48:53.931Z
 
 Néeark is a world that some say will never be tamed. Despite the prevalence of magic in every-day life, refined into common goods that all but the poorest have had at least some exposure to, the creatures that roam the globe combined with the sometimes devestating effects of strong ley-line currents have left civilizations scattered and dense. Settlements are rare and expensive, with none but the most venturous of investors putting down the coin needed to pay for the guards required to keep the wilds at bay.
 
-## Resources
-- [Néeark Calendar](/calendar)
-
-[Play Game](https://app.roll20.net/campaigns/details/5094997/neeark) (Note: This link is no longer valid)
+[Play Game](https://app.roll20.net/campaigns/details/5094997/neeark)
 
 ### Content
 
