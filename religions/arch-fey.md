@@ -2,8 +2,10 @@
 title: The Arch-Fey
 description: The Archfey, rulers of the Feywild
 published: true
-date: 2020-05-17T23:18:50.580Z
+date: 2023-03-03T02:06:21.996Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-02T02:50:27.837Z
 ---
 
 The Arch-Fey are divided into four courts, each taking the name of a season: Summer, Autumn, Winter, Spring. The Summer and Winter courts serve as the two major powers of the Feywild, with the Autmnal and Spring courts holding some power, but nothing near that of the primary courts. The Four Courts serve as the "governments" of the Feywild, though trying to explain to a Mortal what government in the Feywild is like would be akin to explaining the economy of Néeark to an ant.
@@ -11,6 +13,10 @@ The Arch-Fey are divided into four courts, each taking the name of a season: Sum
 The major power in the land, and thus, the court that affects the majority of the Feywild is the Summer Court, ruled over by Titania and her consort, Oberon. Together, the two Archfey have worked diligently to keep the Summer Court in power, and its denizens safe and free. Maintaining the magical ebb and flow of the ley-lines, and preventing bleed-through to the material plane (insomuch as it can be prevented), the Summer Court focuses much of its time keeping the Feywild peaceful and just.
 
 The bitter Winter Court serves as the antithesis to the Summer Court, a cold and biting land, it seeks subjugation and control at all costs. The lands of the Winter Court are in a perpetual state of starless midnight, a single, static Blood Moon casting an eerie red glow over the land. Hags, banshees, feral Drow, and many other dark and cunning creatures call this land home, often searching for areas where the veil between the Feywild and the Material Plane are thinnest, in an effort to exert their control over Mortals as well. Common features of the Winter Court include atmospheric magic such as following a road for a few hours, but ending up back where you were, sudden freezing fog that hides anything inches away, and illusory magics that breed paranoia and distrust amongst wandering parties.
+
+The Autumn Court is a mysterious and elusive court, known for its love of riddles and puzzles. Its ruler, the Archfey Mabon, is said to be a master of riddles and enigmas, and those who seek his aid must be prepared to solve his challenges. The court is often associated with the harvest season, and its members are skilled at agriculture and gardening, as well as brewing and baking. The Autumn Court is known for its delicious feasts, but those who attend must first solve a riddle or puzzle to gain entry.
+
+The Spring Court is a court of rebirth and renewal, led by the Archfey Eostre. It is said that when Eostre wakes from her winter slumber, the snow and ice begin to melt, and new life springs forth from the ground. The court is known for its love of music and dance, and its members are skilled at crafting instruments and creating enchanting melodies. The Spring Court is a place of healing and rejuvenation, and those who seek its aid are often granted new beginnings and fresh starts. However, the court also has a mischievous side, and its members are known for playing pranks and tricks on one another and outsiders alike.
 
 ## Oberon
 Oberon - Oberon appears as a male fairy of perhaps unusual size (4' 6") with no wings, and is strongly muscled by fey standards. He wears a cloak made of green leaves stitched into brown leather. Oberon is the consort of Titania and a member of her Summer Court. He is the father of Damh and Verenestra. He is called King Oberon, but this is an honorific due to his marriage to Queen Titania; he has little political authority among the Summer Court.
