@@ -2,7 +2,7 @@
 title: The Néearkian Pantheon
 description: The Primary Pantheon of Néeark
 published: true
-date: 2023-03-03T00:51:41.764Z
+date: 2023-03-03T00:58:52.308Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-25T16:34:10.737Z
