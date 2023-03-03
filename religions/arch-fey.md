@@ -2,7 +2,7 @@
 title: The Arch-Fey
 description: The Archfey, rulers of the Feywild
 published: true
-date: 2023-03-03T02:11:52.774Z
+date: 2023-03-03T02:11:58.228Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-02T02:50:27.837Z
@@ -57,7 +57,7 @@ Mabon is often depicted with a staff made of twisted vines and leaves, which he 
 
 Overall, Mabon is a complex and intriguing figure, whose love of games and challenges belies his true power and influence in the Feywild.
 
-## Eostre
+## Eostra
 
 Eostra is often depicted as a beautiful elven maiden, adorned in a wreath of flowers and carrying a staff of living wood. She is said to possess the power to breathe new life into the world, ushering in the rebirth of nature after the long sleep of winter. Her magic is closely tied to the changing seasons, and it is said that she can manipulate the very flow of time to bring about the blooming of flowers and the growth of crops.
 
